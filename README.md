@@ -1,8 +1,8 @@
 # loteria-cnn
-Plugin de busca resultados - loteria<br>
-Shortcodes - para consulta\\
-por concurso:\\
-[loterias concurso="2587"]\\
+<h2>Plugin de busca resultados - loteria</h2><br>
+Shortcodes - para consulta<br>
+por concurso:<br>
+[loterias concurso="2587"]<br>
 
-ultimo concurso:\\
-[loterias concurso="ultimo"]\\
+ultimo concurso:<br>
+[loterias concurso="ultimo"]<br>
