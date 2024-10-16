@@ -1,5 +1,5 @@
 # loteria-cnn
-Plugin de busca resultados - loteria\\
+Plugin de busca resultados - loteria<br>
 Shortcodes - para consulta\\
 por concurso:\\
 [loterias concurso="2587"]\\
